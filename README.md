@@ -16,8 +16,8 @@
 ---
 
 ## 🔗 Important Links :
-| Airflow Environment | GCP Environment | Snowflake Environmnent |
-| :----------------- :| :------------- :|:--------------------- :|
+| Airflow Environment | GCP Environment | Snowflake Environment |
+| :----------------- :| :------------- :|:---------------------:|
 | [DEV](https://dev-cdo-data-engineering.airflow.colpal.cloud) | [DEV](https://console.cloud.google.com/home/dashboards?project=cp-saa-internal-sales-dev) | [DEV](app.snowflake.com/colpal/colgatepalmolivedev/#/homepage) |
 | [PROD](https://prod-cdo-data-engineering.airflow.colpal.cloud) | [PROD](https://console.cloud.google.com/home/dashboards?project=cp-saa-internal-sales-prod) |[PROD](app.snowflake.com/colpal/colgatepalmoliveprod/#/homepage) |
 
